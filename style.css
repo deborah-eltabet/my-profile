@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(249 219 188);
+	color: #black;
+
+	font-family: courier;
+}
+
+h1 {
+	color: #461d13cf;
+    font-weight: 300;
+    font-family: helvetica unset;
+    letter-spacing: 10px;
+    font-size: 100px;
+
+}
+
+h2 {
+	color: #461d13cf;
+	font-family: helvetica;
+	font-size: 25px;
+}
